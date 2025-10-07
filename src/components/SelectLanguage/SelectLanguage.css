@@ -1,0 +1,8 @@
+.select-language {
+  transition: background-color 0.3s ease;
+}
+
+.select-language:hover {
+  cursor: pointer;
+  background-color: #eeeeee;
+}

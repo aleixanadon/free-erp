@@ -1,0 +1,35 @@
+{
+  "navbar_home": "Inicio",
+  "navbar_pricing": "Precios",
+  "navbar_about": "Sobre nosotros",
+  "navbar_signup": "Registrarme",
+  "navbar_login": "Iniciar sesión",
+  
+  "hero_section_text_1": "El mejor ERP gratuita para pymes y emprendedoras.",
+  "hero_section_text_2": "Todas las operaciones de tu negocio en un solo clic.",
+  "hero_section_button_1": "Comenzar",
+  "hero_section_button_2": "Documentación",
+
+  "login": "Inicia sesión",
+  "email_label": "Correo electrónico",
+  "email_placeholder": "ejemplo@gmail.com",
+  "email_comment": "Nunca compartiremos su correo electrónico con nadie, aquí no hay cookies.",
+  "password_label": "Contraseña",
+  "password_placeholder": "********",
+  "password_comment": "Su contraseña será encriptada, ni siquiera sabremos su contraseña.",
+  "login_button": "Iniciar sesión",
+
+  "signup": "Registro",
+  "repeat_password_label":"Repetir contraseña",
+  "signup_button": "Registrarme",
+
+  "users":"Usuarios",
+  "customers":"Clientes",
+  "suppliers":"Proveedores",
+  "products":"Productos",
+  "stock":"Stock",
+  "kardex":"Kardex",
+  "invoices":"Facturación",
+  "orders":"Pedidos",
+  "accounting":"Contabilidad"
+}

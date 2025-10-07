@@ -1,0 +1,35 @@
+{
+  "navbar_home": "Home",
+  "navbar_pricing": "Pricing",
+  "navbar_about": "About",
+  "navbar_signup": "Sign up",
+  "navbar_login": "Login",
+
+  "hero_section_text_1": "The best free ERP for pymes and entrepeneurs",
+  "hero_section_text_2": "All your business operations in one click.",
+  "hero_section_button_1": "Start",
+  "hero_section_button_2": "See docs",
+
+  "login": "Login",
+  "email_label": "Email address",
+  "email_placeholder": "example@gmail.com",
+  "email_comment": "We'll never share your email with anyone else.",
+  "password_label": "Password",
+  "password_placeholder": "********",
+  "password_comment": "Your password will be encrypted, we won't even know your password.",
+  "login_button": "Login",
+
+  "signup": "Sign up",
+  "repeat_password_label":"Repeat password",
+  "signup_button": "Sign up",
+
+  "users":"Users",
+  "customers":"Customers",
+  "suppliers":"Suppliers",
+  "products":"Products",
+  "stock":"Stock",
+  "kardex":"Kardex",
+  "invoices":"Invoices",
+  "orders":"Orders",
+  "accounting":"Accounting"
+}

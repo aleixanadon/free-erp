@@ -1,0 +1,24 @@
+@media (min-width: 992px) { /* lg */
+  .home-article {
+    display: flex;
+    padding: 4em;
+    gap: 4em !important;
+  }
+  .home-article > img {
+    width: 30% !important;
+    height: auto;
+  }
+  .text-group {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 1em !important;
+  }
+  .buttons {
+    display: flex;
+    justify-content: center !important;
+    margin: 2em;
+  }
+  .buttons > button {
+    width: 25% !important;
+  }
+}
