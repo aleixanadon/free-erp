@@ -1,11 +1,17 @@
-# Free-ERP
+# Free ERP - React & Node.js
 
-1. Usuarios y roles (autenticación, permisos: admin, empleado, gerente).
+## A free mini ERP built with React, TypeScript, and Redux, designed for simple and efficient management of clients, inventory, and billing.
 
-2. Gestión de clientes (CRUD de clientes y proveedores).
+Main Features:
 
-3. Inventario (productos, stock, movimientos).
+1. User authentication and roles (Admin, Manager, Employee).
 
-4. Facturación / pedidos (crear facturas, asociar clientes y productos).
+2. CRUD management of clients and suppliers.
 
-5. Reportes (ventas por mes, productos más vendidos, etc.).
+3. Product inventory with stock control.
+
+4. Order and invoice creation and tracking.
+
+5. Dashboard with basic reports and statistics.
+
+6. Smooth navigation using React Router DOM.
